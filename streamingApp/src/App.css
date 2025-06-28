@@ -1,0 +1,16 @@
+.videoSlot {
+  border: 1px solid #ccc;
+  margin: 8px;
+  padding: 4px;
+}
+
+.nameTag {
+  text-align: center;
+  font-weight: bold;
+  margin-top: 4px;
+}
+
+.grid {
+  display: flex;
+  flex-wrap: wrap;
+}
